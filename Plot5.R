@@ -27,4 +27,4 @@ ggplot(baltimoreVehiclesNEI,aes(factor(year),Emissions)) +
   labs(title=expression("PM"[2.5]*" Motor Vehicle Source Emissions in Baltimore from 1999-2008"))
 
 dev.off()
-© 2020 GitHub, Inc.
+
